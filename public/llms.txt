@@ -16,5 +16,5 @@ centaur.tools is a community-governed registry for AI tools. Named after Kasparo
 ## Links
 
 - Website: https://centaur.tools
-- Author: Jeremy McEntire (https://perardua.dev)
+- Maintainer: Wander (https://github.com/wandercom)
 - Part of: Exemplar stack (https://exemplar.tools)

@@ -138,6 +138,6 @@ All registered tools must be MIT-licensed. Forks must cite parents. Prior Art no
 ## Links
 
 - Website: https://centaur.tools
-- Author: Jeremy McEntire (https://perardua.dev)
+- Maintainer: Wander (https://github.com/wandercom)
 - Part of: Exemplar stack (https://exemplar.tools)
-- Contact: jandrewmcentire@gmail.com
+- Contact: https://github.com/wandercom/centaur-tools/issues
