@@ -43,5 +43,5 @@ All registered tools are MIT-licensed. Hard reject for non-MIT.
 ## Links
 
 - Website: https://centaur.tools
-- Author: Jeremy McEntire (https://perardua.dev)
+- Maintainer: Wander (https://github.com/wandercom)
 - Part of: Exemplar stack (https://exemplar.tools)
